@@ -1,0 +1,39 @@
+/*DIV BACKGROUND IMG*/
+
+.tw__img-bg{
+    background-position: center center;
+    width: 23%;
+    height: auto;
+    order:1;
+}
+
+.tw__img-bg .icono{
+    height: 150px;
+    width: auto;
+}
+
+/*CONTENT*/
+
+.tw__content{
+    margin: 0 20px;
+    max-width: 700px;
+    order:2;
+}
+
+.tw__content h1{
+    font-size: 6.1rem;
+    line-height: 8.4rem;
+    margin: 48px 0;
+}
+
+/*BUTTONS*/
+
+.tw__btn{
+    width: 52%;
+}
+
+/*SEPARATOR*/
+
+.tw__separator{
+    width: 50%;
+}

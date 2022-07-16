@@ -1,0 +1,14 @@
+.tw__img-bg{
+    width: 41%;
+}
+
+.tw__img-bg .icono{
+    height: auto;
+    width: 22%;
+}
+
+.tw__content{
+    margin: 0 20px;
+    max-width: 600px;
+    order:2;
+}
